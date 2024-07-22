@@ -1,0 +1,5 @@
+SQLite format 3(
+      player_name TEXT,
+      jersey_number INTEGER,
+      role TEXT
+    )
